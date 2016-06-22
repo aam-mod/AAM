@@ -7,6 +7,12 @@ texHeaders.bin
 *.swp
 *.swo
 *.biprivatekey
+*.paa
+*.p3d
+*.rvmat
+*.rtm
+*.ogg
+*.psd
 
 # Windows image file caches
 Thumbs.db

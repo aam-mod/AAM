@@ -1,0 +1,37 @@
+// Seperated into 'buddy' teams, Section makeup can/will vary on the fly
+
+Suggested SOTG Command Section
+
+Suggested Generic SOTG unit / Squad makeup
+
+3x8 Man sections (24)	
+	1 Squad Leader	F90ML40 + Smoke (1w1b1g)
+	1 DM			HK 417
+	1 Rifleman		F90
+	1 Rifleman		F90
+
+	1 Squad 2iC		F90ML40 + Smoke (1w1b1g)
+	1 AR			Minimi
+	1 Rifleman		F90
+	1 Rifleman		F90
+
+1 PLT Cmm		F90Ml40
+1 RTO			F90 + LRRadio
+1 Medic			F90 + Medical
+1 Rifleman		F90
+
+All members have short range Radios on their Squads/sections channel
+
+RTO is glued to the PLT Cmm and has the LR set to the command frequency
+Medic is allways at the back of the formation w/DM and generally NOT to engage.  we need him alive
+DM can fuction as a Arty Designator if needed as he Has the longest range
+SL + 2iC Have GPS in addition to maps
+
+Ammunition : F90 uses will have 6 Mags, AT will use a disposiable launcher / single round. ML40 users will have 4 HE and 2 White smoke 40mm. (1/2 Red for Secco for target ID to aircraft)  Smoke grenades are 1 White, 1 Blue, 1 Green. Blue for extract/rally, green for location marking, white for cover in evac/emergency.DM will have 6 20 Rnd Magazines. TL's should have extra tracer mags avalible for target marking. All units should have IR laser/flashlight combos and IR strobes.
+
+Side arms: All will use the same Side Arm w/ 2 mags, no silencers
+
+Packs: Only the Medic + Support have packs, pref diff colour (Cross on the back) for the medic to tell him apart easily
+
+NOTE : If the Mission calls for it, all units will have silencers for main weapons only
+NOTE : No Support ammo carrier, if extra rounds are needed, the vehicle will carry them or they will be distributed between the Riflemen.
