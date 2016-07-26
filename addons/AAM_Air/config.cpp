@@ -1,4 +1,4 @@
-//////////////////Stuff
+//////////////////
 //
 //	ADF Helos by Gnrnr (AKA Gunnrunner)
 //	Collaborators:
