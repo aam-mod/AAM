@@ -1,18 +1,5 @@
 #AAM \ ARMA 3 Ignored Files
-release/*
-tools/temp
-*.cache
-*.pbo
-texHeaders.bin
-*.swp
-*.swo
-*.biprivatekey
-*.paa
-*.p3d
-*.rvmat
-*.rtm
-*.ogg
-*.psd
+
 
 # Windows image file caches
 Thumbs.db
