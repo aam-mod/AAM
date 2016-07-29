@@ -1,0 +1,68 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 4.97
+//Sat Nov 07 15:29:56 2015 : Source 'file' date Sat Nov 07 15:29:56 2015
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class cup_wheeledvehicles_lav25 : Data\lavalfa_destruct.rvmat{
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0.2,0.2,0.2,1};
+specularPower = 70;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+class Stage1
+{
+	texture = "AAM_Armour\data\lavalfa_nohq.paa";
+	uvSource = "tex";
+};
+class Stage2
+{
+	texture = "a3\data_f\destruct\destruct_plech_full_dt.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {6,0,0};
+		up[] = {0,6,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage3
+{
+	texture = "a3\data_f\destruct\destruct_plech_full_mc.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {6,0,0};
+		up[] = {0,6,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage4
+{
+	texture = "AAM_Armour\data\lavalfa_as.paa";
+	uvSource = "tex";
+};
+class Stage5
+{
+	texture = "#(argb,8,8,3)color(0,0,1,1,SMDI)";
+	uvSource = "tex";
+};
+class Stage6
+{
+	texture = "#(ai,64,64,1)fresnel(4.7,1.2)";
+	uvSource = "tex";
+};
+class Stage7
+{
+	texture = "a3\data_f\env_land_co.paa";
+	useWorldEnvMap = 1;
+	uvSource = "tex";
+};
+//};
